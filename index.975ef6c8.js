@@ -28616,7 +28616,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
@@ -28759,14 +28759,14 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Naval Warfare 2d [GAME REPO] \uD83C\uDF89",
+        description: "A top-down 'battleship' like game designed by me. Repository is public, feel free to take a look at the code!",
+        url: "https://github.com/dylandamiano/NW2D-20220701"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "NW2D Webpage",
+        description: "Webpage contains some information about the NW2D game.",
+        url: "https://github.com/dylandamiano/NW2D-WEBPAGE-20220220"
     },
     {
         title: "My Resume Site",
