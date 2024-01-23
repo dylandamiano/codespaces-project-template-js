@@ -43,7 +43,7 @@ const projectList = [
     url: "https://github.com/dylandamiano/NW2D-WEBPAGE-20220220",
   },
   {
-    title: "THIS CHANGE SHOULD BE kinda VISIBLE",
+    title: "VISIBLE VISIBLE THIS CHANGE SHOULD BE kinda VISIBLE VISIBLE",
     description:
       "THIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLE.",
     url: "https://dylandamiano.com",
