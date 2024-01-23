@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/dylandamiano/NW2D-WEBPAGE-20220220",
   },
   {
-    title: "My Resume Site",
+    title: "THIS CHANGE SHOULD BE VISIBLE",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "THIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLETHIS CHANGE SHOULD BE VISIBLE.",
+    url: "https://dylandamiano.com",
   },
   {
     title: "GitHub Codespaces and github.dev",
