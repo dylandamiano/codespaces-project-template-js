@@ -28921,7 +28921,7 @@ const Education = ()=>{
                     className: "box",
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
-                            children: "University of California, Santa Cruz"
+                            children: "Central State University"
                         }, void 0, false, {
                             fileName: "src/Components/Education.jsx",
                             lineNumber: 10,
@@ -28929,7 +28929,7 @@ const Education = ()=>{
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                             className: "small",
-                            children: "B.S. in Computer Science"
+                            children: "B.S. Program for Computer Science"
                         }, void 0, false, {
                             fileName: "src/Components/Education.jsx",
                             lineNumber: 11,
@@ -28937,7 +28937,7 @@ const Education = ()=>{
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                             className: "small",
-                            children: "B.S. in Mathematics"
+                            children: "B.S. Program for in Mathematics"
                         }, void 0, false, {
                             fileName: "src/Components/Education.jsx",
                             lineNumber: 12,
@@ -28945,7 +28945,7 @@ const Education = ()=>{
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                             className: "small",
-                            children: "Graduated: June 2022"
+                            children: "Graduated: In Progress"
                         }, void 0, false, {
                             fileName: "src/Components/Education.jsx",
                             lineNumber: 13,
