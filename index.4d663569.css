@@ -118,4 +118,42 @@ img.socialIcon {
   width: 30px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.arrowPrompt {
+  cursor: pointer;
+  font-size: 2rem;
+  animation: moveUpDown 1s infinite;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
